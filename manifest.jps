@@ -74,7 +74,7 @@ actions:
     deploy:
       name: Ghost-latest
       context: ROOT
-      archive: https://ghost.org/zip/ghost-latest.zip
+      archive: https://app.demo.jelastic.com/xssu/rest/download/RTYYHARnVAZcW11IbQxvEUtECEUAShFLXxJsHylwfw5CQEdYDwYAQmNTTEBI
 
   deployHomeDir:
     cmd[cp]:
